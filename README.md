@@ -3,9 +3,9 @@ Steps:
 1. Dowloaded data from IEEE websites, total records are 1557
 2. Performed preprocessing
 3. Coverts to vectors 
-4. Apply NearestNeighbors Unsupervised Machine Learning algorithm
+4. Applied NearestNeighbors Unsupervised Machine Learning algorithm
 5. Made web application using streamlit library 
-6. Deploye on Heroku server
+6. Deployed on Heroku server
 
 #### Deployment
 Project online on Heroku server:
